@@ -1,0 +1,8 @@
+{
+  "name": "game-database",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aronreisx/game-database.git",
+  "author": "aronreis2@gmail.com",
+  "license": "MIT"
+}
